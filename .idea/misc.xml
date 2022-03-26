@@ -4,8 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Sahan Mondal/AndroidStudioProjects/FirebaseMVVM/app/src/main/res/layout/activity_main.xml" value="0.176" />
-        <entry key="..\:/Users/Sahan Mondal/AndroidStudioProjects/FirebaseMVVM/app/src/main/res/layout/fragment_add_item.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/Sahan Mondal/AndroidStudioProjects/FirebaseMVVM/app/src/main/res/layout/fragment_add_item.xml" value="0.176" />
         <entry key="..\:/Users/Sahan Mondal/AndroidStudioProjects/FirebaseMVVM/app/src/main/res/layout/fragment_item_list.xml" value="0.176" />
+        <entry key="..\:/Users/Sahan Mondal/AndroidStudioProjects/FirebaseMVVM/app/src/main/res/layout/item_note.xml" value="0.176" />
       </map>
     </option>
   </component>

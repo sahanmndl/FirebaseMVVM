@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/itemListFragment"
-        android:name="com.sahanmondal.firebasemvvm.ItemListFragment"
+        android:name="com.sahanmondal.firebasemvvm.ui.main.fragments.ItemListFragment"
         android:label="fragment_item_list"
         tools:layout="@layout/fragment_item_list" >
         <action
@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/addItemFragment"
-        android:name="com.sahanmondal.firebasemvvm.AddItemFragment"
+        android:name="com.sahanmondal.firebasemvvm.ui.main.fragments.AddItemFragment"
         android:label="fragment_add_item"
         tools:layout="@layout/fragment_add_item" >
         <action
